@@ -2,7 +2,7 @@
 name = "note_frequencies"
 description = "Generate a lookup table of midi note frequencies"
 repository = "https://github.com/derekdreery/note-frequencies"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Richard Dodd <richard.o.dodd@gmail.com>"]
 edition = "2018"
 license = "Apache-2.0/MIT"
